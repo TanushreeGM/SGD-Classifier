@@ -145,7 +145,9 @@ print("\nPredicted Status:", pred[0])
 ```
 
 ## Output:
-<img width="665" height="692" alt="image" src="https://github.com/user-attachments/assets/cdd30e4c-5077-4bb6-8b98-5dd9065d97b5" />
+<img width="630" height="372" alt="image" src="https://github.com/user-attachments/assets/d91b70de-6fa1-41cf-96c6-0dd2c3154f77" />
+<img width="609" height="319" alt="image" src="https://github.com/user-attachments/assets/f745e2a9-a059-40dc-8e4d-e6ec3992b82f" />
+
 
 
 
